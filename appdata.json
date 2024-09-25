@@ -1,0 +1,62 @@
+{
+    "success": true,
+    "message": "Success",
+    "data": {
+        "g_banner": [
+            "",
+            ""
+        ],
+        "g_int": [
+            "",
+            ""
+        ],
+        "g_native": [
+            "",
+            ""
+        ],
+        "g_open": [
+            "",
+            ""
+        ],
+        "fb_banner": [
+            "1637217890189605_1637226456855415"
+        ],
+        "fb_int": [
+            "1637217890189605_1637226603522067",
+            "1637217890189605_1637226603522067"
+        ],
+        "fb_native": [
+            "1637217890189605_1637226856855375",
+            "1637217890189605_1637226856855375"
+        ],
+        "fb_native_banner": [
+            "1637217890189605_1637226996855361",
+            "1637217890189605_1637226996855361"
+        ],
+        "double_ad_status": false,
+        "ads_status": true,
+        "splash_ads_status": false,
+        "is_facebook_first": true,
+        "ads_count": 5,
+        "backword_ads_count": 5,
+        "streaming_video_api": "https://stockomarket.com/api/icallerLLC/talkly/live_stream?primaryTag=girls&userRole=guest",
+        "in_video_ads_time": 30,
+        "reels_videos": "https://stockomarket.com/api/icallerLLC/talkly/viral_reels_videos",
+        "reels_ad_counts": 5,
+        "live_video_api": "https://stockomarket.com/apps/fakecall/",
+        "live_video_min": 1,
+        "live_video_max": 66,
+        "website_ad_status": false,
+        "website_ad_count": 50,
+        "website_ad_list": [
+            "https://pub-play-onlinegames.gamesdonut.com"
+        ],
+        "force_update": false,
+        "force_update_url": "",
+        "more_ad_status": false,
+        "int_more_ad_status": false,
+        "more_ad": [],
+        "int_more_ad": [],
+        "privacy_policy": "https://google.com/"
+    }
+}
