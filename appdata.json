@@ -33,10 +33,10 @@
             "1637217890189605_1637226996855361",
             "1637217890189605_1637226996855361"
         ],
-        "double_ad_status": true,
+        "double_ad_status": false,
         "ads_status": true,
         "splash_ads_status": true,
-        "is_facebook_first": false,
+        "is_facebook_first": true,
         "ads_count": 5,
         "backword_ads_count": 5,
         "streaming_video_api": "https://stockomarket.com/api/icallerLLC/talkly/live_stream?primaryTag=girls&userRole=guest",
