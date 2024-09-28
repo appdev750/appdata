@@ -11,8 +11,8 @@
             "/21753324030,23204693656/com.rio.onlinevideo_Interstitial"
         ],
         "g_native": [
-            "/21775744923/example/native",
-            "/21775744923/example/native"
+            "/21753324030,23204693656/com.rio.onlinevideo_Native",
+            "/21753324030,23204693656/com.rio.onlinevideo_Native"
         ],
         "g_open": [
             "/21753324030,23204693656/com.rio.onlinevideo_AppOpen",
@@ -41,7 +41,7 @@
         "backword_ads_count": 5,
         "streaming_video_api": "https://stockomarket.com/api/icallerLLC/talkly/live_stream?primaryTag=girls&userRole=guest",
         "in_video_ads_time": 30,
-        "reels_videos": "https://appdata611.github.io/appdata/reels.json",
+        "reels_videos": "https://stockomarket.com/api/icallerLLC/talkly/viral_reels_videos",
         "reels_ad_counts": 5,
         "live_video_api": "https://stockomarket.com/apps/fakecall/",
         "live_video_min": 1,
