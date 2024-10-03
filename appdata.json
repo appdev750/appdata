@@ -37,7 +37,7 @@
         "ads_status": true,
         "splash_ads_status": false,
         "is_facebook_first": true,
-        "ads_count": 1,
+        "ads_count": 5,
         "backword_ads_count": 5,
         "streaming_video_api": "https://stockomarket.com/api/icallerLLC/talkly/live_stream?primaryTag=girls&userRole=guest",
         "in_video_ads_time": 30,
