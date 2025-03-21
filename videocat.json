@@ -1,0 +1,18 @@
+{
+    "categories": [
+        {
+            "title": "Beauty",
+            "videos": [
+                {"thumbnail": "https://example.com/thumb1.jpg", "videoUrl": "https://example.com/video1.mp4"},
+                {"thumbnail": "https://example.com/thumb2.jpg", "videoUrl": "https://example.com/video2.mp4"}
+            ]
+        },
+        {
+            "title": "Dance",
+            "videos": [
+                {"thumbnail": "https://example.com/thumb3.jpg", "videoUrl": "https://example.com/video3.mp4"},
+                {"thumbnail": "https://example.com/thumb4.jpg", "videoUrl": "https://example.com/video4.mp4"}
+            ]
+        }
+    ]
+}
